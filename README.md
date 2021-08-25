@@ -12,4 +12,4 @@ int main(int argc, char* argv[], char*envp[])
 * **envp[]:** or "environmental parameters", is an array of strings representing the variables set in the user's environment.
 
 The following screenshot shows the output of the sample program:
-![screenshot](https://assets.digitalocean.com/articles/alligator/boo.svg "screenshot")
+![screenshot](https://github.com/Weikang01/args_of_main/blob/master/static/windows_cmd.png "screenshot")
